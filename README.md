@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Folder Structure
 The project folder structure is as follows:
+
 public
 src
   components
@@ -23,6 +24,7 @@ src
 README.md
 package-lock.json
 package.json
+
 
 ## public
 
