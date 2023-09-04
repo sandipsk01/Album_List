@@ -4,26 +4,29 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Folder Structure
 The project folder structure is as follows:
 
-public
-src
-  components
-    addAlbum.js
-    list.js
-  reducer
-    albumReducer.js
-  styles
-    addAlbum.module.css
-    list.module.css
-  App.css
-  App.js
-  index.css
-  index.js
-  store.js
-
-.gitignore
-README.md
-package-lock.json
-package.json
+|-public
+|-src
+| |-components
+| | |-addAlbum.js
+| | |-list.js
+| |
+| |-reducer
+| | |-albumReducer.js
+| |
+| |-styles
+| | |-addAlbum.module.css
+| | |-list.module.css
+| |
+| |-App.css
+| |-App.js
+| |-index.css
+| |-index.js
+| |-store.js
+|
+|-.gitignore
+|-README.md
+|-package-lock.json
+|-package.json
 
 
 ## public
