@@ -1,0 +1,10 @@
+input {
+    background-color: rgb(225, 225, 221);
+    width: 20em;
+    margin: 2em auto;
+    margin-right: 0.2em;
+}
+
+button {
+    background-color: #0000006c;
+}
