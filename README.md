@@ -2,31 +2,31 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Folder Structure
-
+`
 |-public
-|-src-
-|   |-components-
-|   |           |-addAlbum.js
-|   |           |-list.js
-|   |
-|   |-reducer-
-|   |        |-albumReducer.js
-|   |
-|   |-styles-
-|   |       |-addAlbum.module.css
-|   |       |-list.module.css
-|   |
-|   |-App.css
-|   |-App.js
-|   |-index.css
-|   |-index.js
-|   |-store.js
+|-src
+| |-components
+| | |-addAlbum.js
+| | |-list.js
+| |
+| |-reducer
+| | |-albumReducer.js
+| |
+| |-styles
+| | |-addAlbum.module.css
+| | |-list.module.css
+| |
+| |-App.css
+| |-App.js
+| |-index.css
+| |-index.js
+| |-store.js
 |
 |-.gitignore
 |-README.md
 |-package-lock.json
 |-package.json
-
+`
 ## Available Scripts
 
 In the project directory, you can run:
