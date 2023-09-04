@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Folder Structure
-`
+```
 |-public
 |-src
 | |-components
@@ -26,7 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 |-README.md
 |-package-lock.json
 |-package.json
-`
+```
 ## Available Scripts
 
 In the project directory, you can run:
