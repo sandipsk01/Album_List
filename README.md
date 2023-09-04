@@ -2,31 +2,35 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Folder Structure
-```
-|-public
-|-src
-| |-components
-| | |-addAlbum.js
-| | |-list.js
-| |
-| |-reducer
-| | |-albumReducer.js
-| |
-| |-styles
-| | |-addAlbum.module.css
-| | |-list.module.css
-| |
-| |-App.css
-| |-App.js
-| |-index.css
-| |-index.js
-| |-store.js
-|
-|-.gitignore
-|-README.md
-|-package-lock.json
-|-package.json
-```
+The project folder structure is as follows:
+public
+src
+  components
+    addAlbum.js
+    list.js
+  reducer
+    albumReducer.js
+  styles
+    addAlbum.module.css
+    list.module.css
+  App.css
+  App.js
+  index.css
+  index.js
+  store.js
+
+.gitignore
+README.md
+package-lock.json
+package.json
+
+## public
+
+The `public` folder contains static assets such as images, stylesheets, and JavaScript files that are served directly to the browser.
+## src
+
+The `src` folder contains the source code for the project. This is where you will find the application's components, reducers, styles, and main entry points.
+
 ## Available Scripts
 
 In the project directory, you can run:
